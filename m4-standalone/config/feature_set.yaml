@@ -1,0 +1,18 @@
+feature_set:
+  name: zone05_flow_v1
+  version: "1.0.0"
+  order:
+    - duration_s
+    - total_packets
+    - total_bytes
+    - src_packet_rate
+    - dst_packet_rate
+    - byte_rate
+    - mean_packet_bytes
+    - packet_ratio
+    - byte_ratio
+    - dst_port
+
+
+
+    
