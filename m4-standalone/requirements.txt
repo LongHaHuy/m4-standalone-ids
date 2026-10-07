@@ -1,0 +1,22 @@
+# ==========================================
+# CÁC THƯ VIỆN CỐT LÕI (CORE DEPENDENCIES)
+# Dự án: ML-IDS Standalone (Module 04)
+# ==========================================
+
+# --- Phân tích dữ liệu & Học máy (Data & Machine Learning) ---
+numpy
+pandas
+scikit-learn
+matplotlib
+
+# --- Đóng gói & Lưu trữ Mô hình (Model Serialization) ---
+joblib
+
+# --- Triển khai Dịch vụ API (Web Framework & API) ---
+fastapi
+uvicorn
+pydantic
+
+# --- Giao tiếp Mạng & Hệ thống (Networking & System) ---
+requests
+psutil
